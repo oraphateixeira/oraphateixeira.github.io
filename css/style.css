@@ -70,15 +70,15 @@ a:hover, a:focus{
   background-repeat: repeat;
   background-color: #fff3f7;
   margin-bottom: 0px;
-  color:#0000FF;
+  color:#9646FE;
 }
 
 .jumbotron h1{
-  color:#0000FF;
+  color:#9646FE;
 }
 
 .jumbotron h4{
-  color:#0000FF;
+  color:#9646FE;
 }
 
 .jumbotron img{
@@ -114,7 +114,7 @@ section.showcase{
 
 section.success {
   color:#fff;
-  background-color:#0000FF;
+  background-color:#459EF0;
   padding: 30px;
 }
 
